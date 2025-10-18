@@ -1,7 +1,7 @@
 
 /*
-🔢 Problem: 1. Two Sum
-🔗 Link: https://leetcode.com/problems/two-sum
+🔢 Problem: 
+🔗 Link: 
 📘 Difficulty: Easy
 
  📝 description:
