@@ -11,30 +11,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 
 ### 🧠 Languages: JavaScript & Typescript
 
-<!-- repo folder structure -->
-
 ### 📁 Folder Structure
-
-<!-- Collapse the folder structure -->
-<details>
-   <summary>📁 LeetCode</summary>
-   <ul>
-      <li>📁 Easy</li>
-        <ol>
-         <li>
-            <a href="/leetcode/Easy/001_Two_Sum/001_Two_Sum.js" > 🗃️ 001_Two_Sum </a>
-         </li>
-         <li>
-            <a href="/leetcode/Easy/009_Palindrome_Number/" > 🗃️ 009_Palindrome_Number </a>
-         </li>
-        </ol>
-      <li>📁 Medium</li>
-      <li>📁 Hard</li>
-   </ul>
-</details>
-
-### 📝 Notes
-
 ```
 📁 problem-solving
 │
@@ -42,15 +19,18 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 │ ├── 📁 Easy
 │ │ ├── 📁 001_Two_Sum
 │ │ │ ├── 🗃️ 001_Two_Sum.js
-│ │ ├──── 🗃️ 001_Two_Sum.ts
-│ │ ├── 📁 009_Palindrome_Number
-│ │ ├──── 🗃️ 009_Palindrome_Number.js
-│ │ └──── ...
-│ ├── 📁 Medium
+│ │ │ └── 🗃️ 001_Two_Sum.ts
 │ │ └── ...
-│ └── 📁 Hard
-│ └── ...
-│
+│ ├── 📁 Medium
+│ │ ├── 📁 001_Two_Sum
+│ │ │ ├── 🗃️ 001_Two_Sum.js
+│ │ │ └── 🗃️ 001_Two_Sum.ts
+│ │ └── ...
+│ ├── 📁 Hard
+│ │ ├── 📁 001_Two_Sum
+│ │ │ ├── 🗃️ 001_Two_Sum.js
+│ │ │ └── 🗃️ 001_Two_Sum.ts
+
 ├── 📁 Codeforces
 │ └── ...
 │
@@ -59,3 +39,25 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 │
 └── 📁 Notes
 ```
+
+
+
+### 🏆 Problem Solved
+
+<!-- Collapse the folder structure -->
+<details>
+   <summary>📁 LeetCode</summary>
+   <ul>
+      <li>📁 Easy</li>
+        <ol>
+         <li>
+            <a href="/leetcode/Easy/001_Two_Sum" > 🗃️ 001_Two_Sum </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/009_Palindrome_Number" > 🗃️ 009_Palindrome_Number </a>
+         </li>
+        </ol>
+      <li>📁 Medium</li>
+      <li>📁 Hard</li>
+   </ul>
+</details>
