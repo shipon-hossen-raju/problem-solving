@@ -42,7 +42,7 @@ var containsDuplicate = function (nums) {
 
   */
 
-   // low time limit 
+  // low time limit
   const removeDuplicate = new Set(nums);
   return removeDuplicate.size !== nums.length;
 };
