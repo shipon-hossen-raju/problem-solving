@@ -70,6 +70,12 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
          <li>
             <a href="/leetcode/Easy/2667_Create_Hello_World_Function" > 🗃️ 2667_Create_Hello_World_Function </a>
          </li>
+         <li>
+            <a href="/leetcode/Easy/2620_Counter" > 🗃️ 2620_Counter </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2704_To_Be_Or_Not_To_Be" > 🗃️ 2704_To_Be_Or_Not_To_Be </a>
+         </li>
         </ol>
       <li>📁 Medium</li>
       <li>📁 Hard</li>
