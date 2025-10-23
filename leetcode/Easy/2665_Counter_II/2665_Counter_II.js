@@ -1,6 +1,6 @@
 /*
 🔢 Problem: 2665. Counter II
-🔗 Link: 
+🔗 Link: https://leetcode.com/problems/counter-ii
 📘 Difficulty: Easy
 
  📝 description:

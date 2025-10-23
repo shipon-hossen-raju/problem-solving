@@ -4,10 +4,10 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 
 | Platform                                                                                                                                                      | Solved | Easy | Medium | Hard |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---- | ------ | ---- |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     | 7      | 7    | 0      | 0    |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     | 8      | 8    | 0      | 0    |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) | 0      | 0    | 0      | 0    |
 | [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/)     | 0      | 0    | 0      | 0    |
-| \* Total                                                                                                                                                      | 7      | 7    | 0      | 0    |
+<!-- | \* Total                                                                                                                                                      | 8      | 8    | 0      | 0    | -->
 
 ### 🧠 Languages: JavaScript & Typescript
 
@@ -75,6 +75,12 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
          </li>
          <li>
             <a href="/leetcode/Easy/2704_To_Be_Or_Not_To_Be" > 🗃️ 2704_To_Be_Or_Not_To_Be </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2665_Counter_II" > 🗃️ 2665_Counter_II </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2635_Apply_Transform_Over_Each_Element_in_Array" > 🗃️ 2635_Apply_Transform_Over_Each_Element_in_Array </a>
          </li>
         </ol>
       <li>📁 Medium</li>
