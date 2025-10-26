@@ -2,12 +2,12 @@
 
 Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerrank.
 
-| Platform                                                                                                                                                      | Solved | Easy | Medium | Hard |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---- | ------ | ---- |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     | 8      | 8    | 0      | 0    |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) | 0      | 0    | 0      | 0    |
-| [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/)     | 0      | 0    | 0      | 0    |
-<!-- | \* Total                                                                                                                                                      | 8      | 8    | 0      | 0    | -->
+| Platform                                                                                                                                                      | Solved   | Easy | Medium | Hard |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---- | ------ | ---- | --- | --- |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     | 10       | 10   | 0      | 0    |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) | 0        | 0    | 0      | 0    |
+| [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/)     | 0        | 0    | 0      | 0    |
+| <!--                                                                                                                                                          | \* Total | 8    | 8      | 0    | 0   | --> |
 
 ### 🧠 Languages: JavaScript & Typescript
 
@@ -41,8 +41,10 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 └── 📁 Notes
 ```
 
-##  🚀 30 Days of JavaScript
+## 🚀 30 Days of JavaScript
+
 [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript)
+
 <div style="">
 <img src="https://assets.leetcode.com/static_assets/others/JS_30_-_240x240.png" alt="30 Days of JavaScript" style="width: 100px; height: 100px;"> 
  <p style="font-size: 20px; font-weight: bold;"> 30 Days of JavaScript Challenge from LeetCode </p>
@@ -71,7 +73,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
             <a href="/leetcode/Easy/2667_Create_Hello_World_Function" > 🗃️ 2667_Create_Hello_World_Function </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2620_Counter" > 🗃️ 2620_Counter </a>
+            <a href="/leetcode/Easy/2620_Counter" > 🗃️ 2620_Counter - 🔃 PENDING </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2704_To_Be_Or_Not_To_Be" > 🗃️ 2704_To_Be_Or_Not_To_Be </a>
@@ -80,7 +82,13 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
             <a href="/leetcode/Easy/2665_Counter_II" > 🗃️ 2665_Counter_II </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2635_Apply_Transform_Over_Each_Element_in_Array" > 🗃️ 2635_Apply_Transform_Over_Each_Element_in_Array </a>
+            <a href="/leetcode/Easy/2635_Apply_Transform_Over_Each_Element_in_Array" > 🗃️ 2635_Apply_Transform_Over_Each_Element_in_Array - 🔃 PENDING </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2634_Filter_Elements_from_Array" > 🗃️ 2634_Filter_Elements_from_Array </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2629_Function_Composition" > 🗃️ 2629_Function_Composition </a>
          </li>
         </ol>
       <li>📁 Medium</li>
