@@ -4,10 +4,10 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 
 | Platform                                                                                                                                                      | Solved   | Easy | Medium | Hard |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---- | ------ | ---- | --- | --- |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     | 10       | 10   | 0      | 0    |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     | 15       | 14   | 1      | 0    |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) | 0        | 0    | 0      | 0    |
 | [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/)     | 0        | 0    | 0      | 0    |
-| <!--                                                                                                                                                          | \* Total | 8    | 8      | 0    | 0   | --> |
+| <!--                                                                                                                                                          | \* Total | 15   | 14     | 1    | 0   | --> |
 
 ### 🧠 Languages: JavaScript & Typescript
 
@@ -90,8 +90,22 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
          <li>
             <a href="/leetcode/Easy/2629_Function_Composition" > 🗃️ 2629_Function_Composition </a>
          </li>
+         <li>
+            <a href="/leetcode/Easy/2623_Memoize" > 🗃️ 2623_Memoize </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2703_Return_Length_of_Arguments_Passed" > 🗃️ 2703_Return_Length_of_Arguments_Passed </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2666_Allow_One_Function_Call" > 🗃️ 2666_Allow_One_Function_Call - 🔃 Pending </a>
+         </li>
         </ol>
       <li>📁 Medium</li>
+        <ol>
+         <li>
+            <a href="/leetcode/Easy/2623_Memoize" > 🗃️ 2623_Memoize </a>
+         </li>
+        </ol>
       <li>📁 Hard</li>
    </ul>
 </details>

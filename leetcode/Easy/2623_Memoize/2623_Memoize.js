@@ -1,7 +1,7 @@
 /*
 🔢 Problem: 2623. Memoize
 🔗 Link: https://leetcode.com/problems/memoize
-📘 Difficulty: Easy
+📘 Difficulty: Medium
 
  📝 description:
      Given a function fn, return a memoized version of that function.
