@@ -57,7 +57,7 @@ type JSONValue =
   | { [key: string]: JSONValue };
 type Fn = (...args: JSONValue[]) => void;
 
-function cancellable(fn: Fn, args: JSONValue[], t: number): Function {
+function cancellable<T extends any[]>(fn: (...args: T) => any, args: T, t: number): () => void {
   const timer = setTimeout(() => {
     fn(...args);
   }, t);
@@ -68,7 +68,7 @@ function cancellable(fn: Fn, args: JSONValue[], t: number): Function {
   return cancelFn;
 }
 
-const fn = (a, b) => console.log(a + b);
+const fn = (a: number, b: number) => console.log(a + b);
 const cancelFn = cancellable(fn, [2, 3], 3000);
 setTimeout(cancelFn, 1000);
 console.log("Cancellation scheduled after 1 second.");
