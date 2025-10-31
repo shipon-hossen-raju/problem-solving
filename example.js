@@ -1,6 +1,6 @@
 
 /*
-🔢 Problem: 2666. Allow One Function Call
+🔢 Problem: 
 🔗 Link: 
 📘 Difficulty: Easy
 

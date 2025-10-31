@@ -91,13 +91,25 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
             <a href="/leetcode/Easy/2629_Function_Composition" > 🗃️ 2629_Function_Composition </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2623_Memoize" > 🗃️ 2623_Memoize </a>
+            <a href="/leetcode/Easy/217_Contains_Duplicate" > 🗃️ 217_Contains_Duplicate </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2703_Return_Length_of_Arguments_Passed" > 🗃️ 2703_Return_Length_of_Arguments_Passed </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2666_Allow_One_Function_Call" > 🗃️ 2666_Allow_One_Function_Call - 🔃 Pending </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2626_Array_Reduce_Transformation" > 🗃️ 2626_Array_Reduce_Transformation </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2621_Sleep" > 🗃️ 2621_Sleep </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2715_Timeout_Cancellation" > 🗃️ 2715_Timeout_Cancellation </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2723_Add_Two_Promises" > 🗃️ 2723_Add_Two_Promises </a>
          </li>
         </ol>
       <li>📁 Medium</li>
