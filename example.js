@@ -1,6 +1,6 @@
 
 /*
-🔢 Problem: 2725. Interval Cancellation
+🔢 Problem: 
 🔗 Link: 
 📘 Difficulty: Easy
 
