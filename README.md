@@ -6,7 +6,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 
 | Platform | Total | Solved | Easy | Medium | Hard |
 |:---------|:------:|:------:|:----:|:------:|:----:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/) | 20 | 19 | 1 | 0 | 0 |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/) | 21 | 20 | 1 | 0 | 0 |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) | 0 | 0 | 0 | 0 | 0 |
 | [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/) | 0 | 0 | 0 | 0 | 0 |
 
@@ -123,6 +123,9 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
          </li>
          <li>
             <a href="/leetcode/Easy/2677_Chunk_Array" > 🗃️ 2677_Chunk_Array </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2619_Array_Prototype_Last" > 🗃️ 2619_Array_Prototype_Last </a>
          </li>
         </ol>
       <li>📁 Medium</li>
