@@ -127,6 +127,9 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
          <li>
             <a href="/leetcode/Easy/2619_Array_Prototype_Last" > 🗃️ 2619_Array_Prototype_Last </a>
          </li>
+         <li>
+            <a href="/leetcode/Easy/2724_Sort_By" > 🗃️ 2724_Sort_By </a>
+         </li>
         </ol>
       <li>📁 Medium</li>
         <ol>
