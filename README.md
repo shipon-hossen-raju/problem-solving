@@ -86,7 +86,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
             <a href="/leetcode/Easy/2665_Counter_II" > 🗃️ 2665_Counter_II </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2635_Apply_Transform_Over_Each_Element_in_Array" > 🗃️ 2635_Apply_Transform_Over_Each_Element_in_Array - 🔃 PENDING </a>
+            <a href="/leetcode/Easy/2635_Apply_Transform_Over_Each_Element_in_Array" > 🗃️ 2635_Apply_Transform_Over_Each_Element_in_Array </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2634_Filter_Elements_from_Array" > 🗃️ 2634_Filter_Elements_from_Array </a>
