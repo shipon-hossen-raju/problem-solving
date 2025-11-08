@@ -101,7 +101,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
             <a href="/leetcode/Easy/2703_Return_Length_of_Arguments_Passed" > 🗃️ 2703_Return_Length_of_Arguments_Passed </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2666_Allow_One_Function_Call" > 🗃️ 2666_Allow_One_Function_Call - 🔃 Pending </a>
+            <a href="/leetcode/Easy/2666_Allow_One_Function_Call" > 🗃️ 2666_Allow_One_Function_Call </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2626_Array_Reduce_Transformation" > 🗃️ 2626_Array_Reduce_Transformation </a>
