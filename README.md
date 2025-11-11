@@ -113,7 +113,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
             <a href="/leetcode/Easy/2715_Timeout_Cancellation" > 🗃️ 2715_Timeout_Cancellation </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2723_Add_Two_Promises" > 🗃️ 2723_Add_Two_Promises - 🔃 Pending </a>
+            <a href="/leetcode/Easy/2723_Add_Two_Promises" > 🗃️ 2723_Add_Two_Promises </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2725_Interval_Cancellation" > 🗃️ 2725_Interval_Cancellation </a>
