@@ -6,11 +6,11 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 
 | Platform | Total | Solved | Easy | Medium | Hard |
 |:---------|:------:|:------:|:----:|:------:|:----:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/) | 21 | 20 | 1 | 0 | 0 |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/) | 22 | 21 | 1 | 0 | 0 |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) | 0 | 0 | 0 | 0 | 0 |
 | [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/) | 0 | 0 | 0 | 0 | 0 |
 
-
+s
 <!--                                                                                                                                                          | \* Total | 15   | 14     | 1    | 0   | 0 |--> 
 
 ### 🧠 Languages: JavaScript & Typescript
@@ -63,7 +63,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
    <summary>📁 LeetCode</summary>
    <ul>
       <li>📁 Easy</li>
-        <ol>
+        <ol type="1">
          <li>
             <a href="/leetcode/Easy/001_Two_Sum" > 🗃️ 001_Two_Sum </a>
          </li>
@@ -129,6 +129,9 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
          </li>
          <li>
             <a href="/leetcode/Easy/2724_Sort_By" > 🗃️ 2724_Sort_By </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2695_Array_Wrapper" > 🗃️ 2695_Array_Wrapper </a>
          </li>
         </ol>
       <li>📁 Medium</li>
