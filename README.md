@@ -77,7 +77,7 @@ s
             <a href="/leetcode/Easy/2667_Create_Hello_World_Function" > 🗃️ 2667_Create_Hello_World_Function </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2620_Counter" > 🗃️ 2620_Counter - 🔃 PENDING </a>
+            <a href="/leetcode/Easy/2620_Counter" > 🗃️ 2620_Counter </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2704_To_Be_Or_Not_To_Be" > 🗃️ 2704_To_Be_Or_Not_To_Be </a>
@@ -86,7 +86,7 @@ s
             <a href="/leetcode/Easy/2665_Counter_II" > 🗃️ 2665_Counter_II </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2635_Apply_Transform_Over_Each_Element_in_Array" > 🗃️ 2635_Apply_Transform_Over_Each_Element_in_Array - 🔃 PENDING </a>
+            <a href="/leetcode/Easy/2635_Apply_Transform_Over_Each_Element_in_Array" > 🗃️ 2635_Apply_Transform_Over_Each_Element_in_Array </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2634_Filter_Elements_from_Array" > 🗃️ 2634_Filter_Elements_from_Array </a>
@@ -101,7 +101,7 @@ s
             <a href="/leetcode/Easy/2703_Return_Length_of_Arguments_Passed" > 🗃️ 2703_Return_Length_of_Arguments_Passed </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2666_Allow_One_Function_Call" > 🗃️ 2666_Allow_One_Function_Call - 🔃 Pending </a>
+            <a href="/leetcode/Easy/2666_Allow_One_Function_Call" > 🗃️ 2666_Allow_One_Function_Call </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2626_Array_Reduce_Transformation" > 🗃️ 2626_Array_Reduce_Transformation </a>
@@ -113,7 +113,7 @@ s
             <a href="/leetcode/Easy/2715_Timeout_Cancellation" > 🗃️ 2715_Timeout_Cancellation </a>
          </li>
          <li>
-            <a href="/leetcode/Easy/2723_Add_Two_Promises" > 🗃️ 2723_Add_Two_Promises - 🔃 Pending </a>
+            <a href="/leetcode/Easy/2723_Add_Two_Promises" > 🗃️ 2723_Add_Two_Promises </a>
          </li>
          <li>
             <a href="/leetcode/Easy/2725_Interval_Cancellation" > 🗃️ 2725_Interval_Cancellation </a>
