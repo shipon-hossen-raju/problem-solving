@@ -4,14 +4,15 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 
 ## 📊 Daily Problem-Solving Progress
 
-| Platform | Total | Solved | Easy | Medium | Hard |
-|:---------|:------:|:------:|:----:|:------:|:----:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/) | 22 | 21 | 1 | 0 | 0 |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) | 0 | 0 | 0 | 0 | 0 |
-| [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/) | 0 | 0 | 0 | 0 | 0 |
+| Platform                                                                                                                                                      | Total | Solved | Easy | Medium | Hard |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---: | :----: | :--: | :----: | :--: |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     |  27   |   26   |  1   |   0    |  0   |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) |   0   |   0    |  0   |   0    |  0   |
+| [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/)     |   0   |   0    |  0   |   0    |  0   |
 
 s
-<!--                                                                                                                                                          | \* Total | 15   | 14     | 1    | 0   | 0 |--> 
+
+<!--                                                                                                                                                          | \* Total | 15   | 14     | 1    | 0   | 0 |-->
 
 ### 🧠 Languages: JavaScript & Typescript
 
@@ -66,6 +67,9 @@ s
         <ol type="1">
          <li>
             <a href="/leetcode/Easy/001_Two_Sum" > 🗃️ 001_Two_Sum </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2235_Add_Two_Integers" > 🗃️ 2235_Add_Two_Integers </a>
          </li>
          <li>
             <a href="/leetcode/Easy/009_Palindrome_Number" > 🗃️ 009_Palindrome_Number </a>
@@ -132,6 +136,12 @@ s
          </li>
          <li>
             <a href="/leetcode/Easy/2695_Array_Wrapper" > 🗃️ 2695_Array_Wrapper </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/2469_Convert_the_Temperature" > 🗃️ 2469_Convert_the_Temperature </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" > 🗃️ 1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer </a>
          </li>
         </ol>
       <li>📁 Medium</li>
