@@ -143,6 +143,9 @@ s
          <li>
             <a href="/leetcode/Easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" > 🗃️ 1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer </a>
          </li>
+         <li>
+            <a href="/leetcode/Easy/1812_Determine_Color_of_a_Chessboard_Square" > 🗃️ 1812_Determine_Color_of_a_Chessboard_Square </a>
+         </li>
         </ol>
       <li>📁 Medium</li>
         <ol>

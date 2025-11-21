@@ -1,5 +1,5 @@
 /*
-🔢 Problem: 1281. Subtract the Product and Sum of Digits of an Integer
+🔢 Problem:
 🔗 Link: 
 📘 Difficulty: Easy
 
