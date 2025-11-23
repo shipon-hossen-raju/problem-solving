@@ -57,7 +57,7 @@ s
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-### 🏆 Problem Solved
+### 🏆 Problem Solved Lists
 
 <!-- Collapse the folder structure -->
 <details>
@@ -148,6 +148,9 @@ s
          </li>
          <li>
             <a href="/leetcode/Easy/1662_Check_If_Two_String_Arrays_are_Equivalent" > 🗃️ 1662_Check_If_Two_String_Arrays_are_Equivalent </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/1822_Sign_of_the_Product_of_an_Array" > 🗃️ 1822_Sign_of_the_Product_of_an_Array </a>
          </li>
         </ol>
       <li>📁 Medium</li>
