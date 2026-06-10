@@ -6,7 +6,7 @@ Tracking my daily problem-solving progress on LeetCode, Codeforces and Hackerran
 
 | Platform                                                                                                                                                      | Total | Solved | Easy | Medium | Hard |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---: | :----: | :--: | :----: | :--: |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     |  29   |   28   |  1   |   0    |  0   |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shipon-hossen-raju/)     |  31   |   29   |  1   |   0    |  0   |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/username/) |   0   |   0    |  0   |   0    |  0   |
 | [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username/)     |   0   |   0    |  0   |   0    |  0   |
 
@@ -151,6 +151,9 @@ s
          </li>
          <li>
             <a href="/leetcode/Easy/1822_Sign_of_the_Product_of_an_Array" > 🗃️ 1822_Sign_of_the_Product_of_an_Array </a>
+         </li>
+         <li>
+            <a href="/leetcode/Easy/1773_Count_Items_Matching_a_Rule" > 🗃️ 1773_Count_Items_Matching_a_Rule </a>
          </li>
         </ol>
       <li>📁 Medium</li>
